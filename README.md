@@ -22,7 +22,7 @@
 
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram&logoColor=27)](https://t.me/egorolenin)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=4680C2)](https://vk.com/egorolenin)
-[![HeadHunter](https://img.shields.io/badge/-HeadHunter-090909?style=for-the-badge&logo=hh&logoColor=E31E24)](https://hh.ru/resume)
+[![HeadHunter](https://img.shields.io/badge/-HeadHunter-090909?style=for-the-badge&logo=hh&logoColor=E31E24)](https://hh.ru/resume/12df137dff0b635fa20039ed1f717a69744370)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/egor-olenin)
 
 
